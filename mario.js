@@ -11,7 +11,7 @@ iframe.style.top = '50%';
 iframe.style.left = '50%';
 iframe.style.transform = 'translate(-50%, -50%)';
 iframe.style.zIndex = '999999';
-iframe.style.border = '5px solid #ff0000';
+iframe.style.border = '5px solid #000000';
 iframe.style.borderRadius = '10px';
 iframe.style.boxShadow = '0 0 30px rgba(0,0,0,0.8)';
 
